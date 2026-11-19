@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+# Test coverage
+coverage/
+
+# Env
+.env
+.env.*
+
+# IMPORTANT (Kiroween 2026 submission requirement):
+# The /.kiro directory must be committed and must NOT be ignored.
+# Do not add .kiro/ or any of its subfolders to this file.
